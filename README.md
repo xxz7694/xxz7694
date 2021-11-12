@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xxz7694
 - 👀 I’m interested in reading and running
-- 🌱 I’m currently learning ElasticSearch and Flask
+- 🌱 I’m currently learning Sanic and python
 - 📫 How to reach me 309114330@qq.com
 
 <!---
